@@ -1,8 +1,11 @@
 # WeatherApp
-A simple weather app made in javascript
+
+## A simple weather app made in javascript
 
 This app is inspired by Simpleweather.js
 
-LICENSE
+## LICENSE
 
 MIT © AAKANKSH YALAMARTHY
+
+Enjoy!
